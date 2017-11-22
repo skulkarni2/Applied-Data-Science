@@ -1,1 +1,3 @@
 # Applied-Data-Science
+
+This course introduces students to a wide variety of tools currently used in applied data science. It is not a course in statistics, econometrics, or computer science per se. Rather, it is a practice-oriented synthesis of these disciplines with strong urban focus — concepts and techniques are motivated and illustrated by applications to urban problems and datasets. Students will also be introduced to the origins of analytic techniques where appropriate with necessary theoretic material provided. Certain important additional fundamental topics such as Bayesian Inference and Network Analysis will be considered in the end of the program.
